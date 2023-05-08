@@ -60,5 +60,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: marazmatik2000/infra_actions:latest
+          tags: dreamcrusader/infra_actions
 
